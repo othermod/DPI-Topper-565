@@ -1,5 +1,9 @@
 # Raspberry Pi DPI Topper
 
+https://othermod.com/product/40pin-raspberry-pi-lcd-topper/
+
+![DPI Topper](https://othermod.com/wp-content/uploads/LCD-Topper-Top-1.png)
+
 Backlight Dimming
 
 LCD driven by GPIO using custom RGB 565 overlay
