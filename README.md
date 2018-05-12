@@ -1,16 +1,8 @@
-# PSPi Version 4 Software
+# Raspberry Pi DPI Topper
 
-https://discord.gg/aR5jzUY Version 4 discussion on Discord
+Backlight Dimming
 
-**Project Features:**
-
-Analog Joystick
-
-Battery Monitor
-
-LCD Backlight Dimming
-
-4.3" LCD, driven by GPIO using custom RGB 565 overlay
+LCD driven by GPIO using custom RGB 565 overlay
 
 Made for Pi Zero and Zero W, works perfectly with Pi 3
 
