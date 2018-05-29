@@ -1,0 +1,32 @@
+#Enable/disable the optional hardware interfaces
+
+dtparam=i2c0=off
+dtparam=i2c1=off
+dtparam=i2s=off
+dtparam=spi=off
+
+#Pull GPIO high to keep power circuits on. This is also connected to the LCD backlight initially.
+dtoverlay=gpio-poweroff,gpiopin=27,active_low="y"
+
+#Set screen size and any overscan required
+overscan_left=0
+overscan_right=0
+overscan_top=0
+overscan_bottom=0
+framebuffer_width=800
+framebuffer_height=480
+ 
+#Enable DPI
+enable_dpi_lcd=1
+display_default_lcd=1
+dpi_group=2
+dpi_mode=87
+dtoverlay=lcd
+dpi_output_format=458774		
+hdmi_timings=800 0 40 48 88 480 0 13 3 32 0 0 0 60 0 32000000 6	
+start_x=1
+gpu_mem=128
+gpu_mem_256=128
+gpu_mem_512=256
+gpu_mem_1024=256
+overscan_scale=1
