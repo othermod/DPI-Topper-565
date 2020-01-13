@@ -18,29 +18,20 @@ Install the SD card and boot up. That's all.
 
 Backlight will be set to 100% at bootup. Software will be added soon to allow backlight dimming.
 
-The following LCDs are compatible with the Topper (more to come as I test them):
+**The following LCDs are compatible with the Topper (more to come as I test them):**
 
 http://s.click.aliexpress.com/e/bqnimQB
-4.3" good quality and powerful 2-strip backlight (40mA)
-480x272 resolution
-Work's with Github 480x272 settings
+4.3" good quality and powerful 2-strip backlight (40mA), 480x272 resolution
 
-http://s.click.aliexpress.com/e/uzf2RJE
-5.0" LCD, great image
-480x272 resolution
-Work's with Github 480x272 settings
+http://s.click.aliexpress.com/e/uzf2RJE,
+5.0" LCD, great image, 480x272 resolution
 
 http://s.click.aliexpress.com/e/rf6yNvR
-5.0" LCD, great image, same LCD Adafruit sells
-Works with Github 800x480 settings
+5.0" LCD, great image, same LCD Adafruit sells, 800x480 resolution
 
 https://ebay.to/2kxCGdu
-7.0" LCD, great image
-This LCD is huge
-800x480 resolution
-Works with Github 800x480 settings
+7.0" LCD, great image, this LCD is huge, 800x480 resolution
 
 http://s.click.aliexpress.com/e/brBQjFEg
-7.0" LCD, looks great and is super cheap (this is the best-looking 7" I've tested)
-800x480 resolution
-Works with Github 800x480 settings
+7.0" LCD, looks great and is super cheap (this is the best-looking 7" I've tested), 800x480 resolution
+
