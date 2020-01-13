@@ -1,6 +1,6 @@
 # Raspberry Pi DPI Topper
 
-https://othermod.com/product/40pin-raspberry-pi-lcd-topper/
+https://easyeda.com/adamseamster/pi-zero-topper
 
 ![DPI Topper](https://othermod.com/wp-content/uploads/LCD-Topper-Top-1.png)
 
